@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 -->
 
 # Cameron Mitchell
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+learning;Always+growing)](https://git.io/typing-svg)
