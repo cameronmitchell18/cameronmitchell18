@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 # Cameron Mitchell
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Always+learning;Always+growing)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3800&pause=500&color=ADF6FF&center=true&width=435&lines=Always+Learning;Always+Growing)](https://git.io/typing-svg)
